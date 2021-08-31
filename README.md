@@ -1,7 +1,7 @@
 # <h1 align="center">My_Portfolio</h1>
 <h1>About Me</h1>
 
-![](https://github.com/Anaest-py/My_Portfolio/blob/main/Images/IMG_20210728_161828_933.jpg)
+![](https://github.com/Anaest-py/My-Portfolio/blob/main/images/IMG_20210728_161828_933.jpg)
 
 
 I am Esther Chinenye Anagu, an aspiring data analyst. Although I did not have a background in Data Science but of course, because of my determination and passion for it, through learning and studying, I have been able to improve in my data analysis skills. I have enrolled in courses on various platforms, such as Udereka, Udemy, IBM, Coursera, etc. I have also watched various YouTube videos that have helped in this journey. Moreso, I was given a scholarship on AWS Machine Learning by Udacity, thus increasing my knowledge on the course.
@@ -20,9 +20,9 @@ As a data scientist, visual representation of our data is very important.
 
 
 
-## [Project 2: Data Analysis using Pandas](https://github.com/Anaest-py/Week-5-Assessment/blob/master/Anagu%20Esther%20WT-21-074/Project2%20on%20Economic%20Indicators'%20Correlation%20(GDP%20and%20Unemployment%20Rate).ipynb)
+## [Project 2: Data Analysis using Pandas](https://github.com/Anaest-py/My-Portfolio/blob/main/images/Screenshot_20210803-143756.png)
 
-![](https://github.com/Anaest-py/My_Portfolio/blob/main/Images/Screenshot_20210803-143756.png)
+![](https://github.com/Anaest-py/My-Portfolio/blob/main/images/Screenshot_20210803-143756.png)
 
 In this project, I used the datasets for 2019 from the worldbank website to find the correlation between the GDP rate and Unemployment rate. To accomplish this, I followed the following steps:
 * Gathered the datasets from the World Bank website.
@@ -31,7 +31,7 @@ In this project, I used the datasets for 2019 from the worldbank website to find
 * Visualized the outcome to get a better view.
 
 ## [Project 3: Microsoft Excel and VBA](https://1drv.ms/x/s!AvSxhnHB1dH7hgYWkWlXp_Ymov7M)
-![](https://github.com/Anaest-py/My_Portfolio/blob/main/Images/images%20(2).png)
+![](https://github.com/Anaest-py/My-Portfolio/blob/main/images/images%20(2).png)
 
 In this project, I used Microsoft Excel to:
 * Create a macro to format texts of which the final texts are
@@ -53,7 +53,7 @@ to green.
 * Design a userform.
 
 ## [Project 4: Tkinter Voice Assistant (An NLP System)](https://github.com/Anaest-py/Tkinter_search_engine)
-![](https://github.com/Anaest-py/My_Portfolio/blob/main/Images/Project4.png)
+![](https://github.com/Anaest-py/My-Portfolio/blob/main/images/Project4.png)
 
 In the course of my four months training at Women Techsters Fellowship program, my team of 9 and I built an NLP system, a voice-recognition search engine that helps people, through their voice, search for words, as the name implies, irrespective of their diverse accent. Even though, I was not the team leader, there was a high level of collaboration and teamwork in the project. My role was making sure that everything was going as planned and I also gave important presentation tips to the presenter which made us perform excellently well.
 
