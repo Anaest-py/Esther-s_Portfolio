@@ -62,7 +62,7 @@ In the course of my four months training at Women Techsters Fellowship program, 
 * **Websites:** geeksforgeeks, Kaggle, CodeAcademy, DataCamp, & Analytics Vidhya.
 * **Platforms:** YouTube Tutorials.
 
-# Contact Me
+# Contact
  Please, contact me on:
  
 <a href="https://www.linkedin.com/in/esther-anagu-49599a155/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65473425/127322282-7425390a-7189-4369-af5b-fb06ff765017.png" alt="https://www.linkedin.com/ju-alaba-b038b51b4/" height="30" width="40" /></a>
