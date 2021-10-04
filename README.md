@@ -4,7 +4,7 @@
 ![](https://github.com/Anaest-py/My-Portfolio/blob/main/images/IMG_20210728_161828_933.jpg)
 
 
-I am Esther Chinenye Anagu, an aspiring data analyst. Although I did not have a background in Data Science but of course, because of my determination and passion for it, through learning and studying, I have been able to improve in my data analysis skills. I have enrolled in courses on various platforms, such as Udereka, Udemy, IBM, Coursera, etc. I have also watched various YouTube videos that have helped in this journey. Moreso, I was given a scholarship on AWS Machine Learning by Udacity, thus increasing my knowledge on the course.
+I am Esther Chinenye Anagu, an aspiring data analyst. Although I did not have a background in Data Science but of course, because of my determination and passion for it, through learning and studying, I have been able to improve in my data analysis skills. I have enrolled in courses on various platforms, such as Udereka, Udemy, IBM, Coursera, etc. I have also watched various YouTube videos that have helped in this journey. Moreso, I was given a scholarship on AWS Machine Learning by Udacity, thus increasing my knowledge base.
 
 I love continuous improvement, thus making it easy for me to learn new things and adapting to changes easily. As a result, an organization with a culture of continuous improvement and positive environment interests me the most. This would make them succeed amongst all odds. My main objective is to add value to your organization and ensure that I work towards making your visions and missions accomplished through the use of data. However, I am willing to learn and know more and be more proficient in this field.
 
