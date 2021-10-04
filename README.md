@@ -63,6 +63,6 @@ In the course of my four months training at Women Techsters Fellowship program, 
 <a href="https://twitter.com/AnaguEsther" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65473425/127322538-98e168fb-a6e6-4790-a412-aa53cdaff612.png" alt="chryz_codez" height="30" width="40" /></a> 
 <a href="https://web.facebook.com/anagu.esther.5/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65473425/127181595-6f0fb2fd-9ebb-4c79-b762-8072881bcd7d.png" height="30" width="40" /></a>
 <a href="https://www.instagram.com/anaest_in_tech/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65473425/127182240-9dc14b67-aa84-43d9-abdd-49800606d7c3.png" height="30" width="40" /></a>
-<a href="anaguesther2@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65473425/127925895-e014622a-c6b8-4e11-a525-8ebefe96dc3d.png" height="30" width="40"/></a>
+<a href="anaguesther2@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65473425/127925895-e014622a-c6b8-4e11-a525-8ebefe96dc3d.png" height="30" width="40"/>anaguesther2@gmail.com</a>
 
 <a href="tel:+2347051190855</a>" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/blue-phone-icon--premier-rides-13.jpg" height = "30" width="40"/>  +2347051190855</a>
