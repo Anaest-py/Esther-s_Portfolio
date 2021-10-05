@@ -27,7 +27,7 @@ To analyze the company’s customers, identify the loyal ones, and how we can pr
 
 
 
-## [Project 2: Data Analysis using Pandas](https://github.com/Anaest-py/My-Portfolio/blob/main/images/Screenshot_20210803-143756.png)
+## [Project 2: Data Analysis using Pandas](https://github.com/Anaest-py/Week-5-Assessment/blob/master/Anagu%20Esther%20WT-21-074/Project2%20on%20Economic%20Indicators'%20Correlation%20(GDP%20and%20Unemployment%20Rate).ipynb)
 
 ![](https://github.com/Anaest-py/My-Portfolio/blob/main/images/Screenshot_20210803-143756.png)
 
