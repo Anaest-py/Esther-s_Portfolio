@@ -14,7 +14,7 @@ I love continuous improvement, thus making it easy for me to learn new things an
 <h1>Projects</h1>
 
 ## [Project 1: Data Visualization](https://public.tableau.com/app/profile/anagu.esther)
-As a data scientist, visual representation of our data is very important.
+A an organization, it will be difficult to make sense out of the data unless it is visualized.s a data scientist, visual representation of our data is very important.
 I wrote an article on data visualization and in the article, I gave a report on three (3) important aspects of the Global Superstore datasets from the sample datasets provided by Tableau — Product analysis, Customer analysis, and the sales trends throughout 4years.
 Objectives of the Article:
 To ascertain and report on the rate of change in sales over four (4) years, 2014–2018.
