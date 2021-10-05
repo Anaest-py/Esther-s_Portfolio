@@ -14,8 +14,8 @@ I love continuous improvement, thus making it easy for me to learn new things an
 <h1>Projects</h1>
 
 ## [Project 1: Data Visualization](https://public.tableau.com/app/profile/anagu.esther)
-A an organization, it will be difficult to make sense out of the data unless it is visualized.s a data scientist, visual representation of our data is very important.
-I wrote an article on data visualization and in the article, I gave a report on three (3) important aspects of the Global Superstore datasets from the sample datasets provided by Tableau — Product analysis, Customer analysis, and the sales trends throughout 4years.
+As an organization, it will be difficult to make sense out of the data unless it is visualized. One of our duties, as data scientists, is to tell stories with data via data visualization. I can use the following tools: Power BI, Tableau, and Excel to visualize data.
+Also, I wrote an article on data visualization and in the article, I gave a report on three (3) important aspects of the Global Superstore datasets from the sample datasets provided by Tableau — Product analysis, Customer analysis, and the sales trends throughout 4years.
 Objectives of the Article:
 To ascertain and report on the rate of change in sales over four (4) years, 2014–2018.
 To analyze the products and identify the unprofitable products and give appropriate recommendations.
