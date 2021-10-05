@@ -17,7 +17,8 @@ I love continuous improvement, thus making it easy for me to learn new things an
 As an organization, it will be difficult to make sense out of the data unless it is visualized. One of our duties, as data scientists, is to tell stories with data via data visualization. I can use the following tools: Power BI, Tableau, and Excel to visualize data.
 
 Also, I wrote an [article](https://anaguesther2.medium.com/in-todays-world-data-has-increased-in-volume-velocity-variety-veracity-and-value-and-these-736d0cc70808) on data visualization and in the article, I gave a report on three (3) important aspects of the Global Superstore datasets from the sample datasets provided by Tableau — Product analysis, Customer analysis, and the sales trends throughout 4years.
-Objectives of the Article:
+The objectives of the Article were:
+
 To ascertain and report on the rate of change in sales over four (4) years, 2014–2018.
 To analyze the products and identify the unprofitable products and give appropriate recommendations.
 To analyze the company’s customers, identify the loyal ones, and how we can provide continued satisfaction
