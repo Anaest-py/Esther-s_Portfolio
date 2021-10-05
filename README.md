@@ -38,7 +38,7 @@ In this project, I used the datasets for 2019 from the worldbank website to find
 * Visualized the outcome to get a better view.
 
 ## [Project 3: Microsoft Excel and VBA](https://1drv.ms/x/s!AvSxhnHB1dH7hgYWkWlXp_Ymov7M)
-![](https://github.com/Anaest-py/My-Portfolio/blob/main/images/images%20(2).png)
+![](https://github.com/Anaest-py/My-Portfolio/blob/main/images/images%20(36).jpeg)
 
 In this project, I used Microsoft Excel to:
 * Create a macro to format texts of which the final texts are
