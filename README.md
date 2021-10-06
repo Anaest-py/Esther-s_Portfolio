@@ -35,12 +35,8 @@ In this project, I used the datasets for 2019 from the worldbank website to find
 ![](https://github.com/Anaest-py/My-Portfolio/blob/main/images/images%20(36).jpeg)
 
 In this project, I used Microsoft Excel to:
-* Create a macro to format texts of which the final texts are
-centralized, made bold, and the font: Verdana and Font size: 11.
-
-* Add a button to the worksheet, using the Developer ribbon (Form controls), 
-and assign it to a macro that changes the background color of selected cells 
-to green.
+* Create a macro to format texts of which the final texts are centralized, made bold, and the font: Verdana and Font size: 11.
+* Add a button to the worksheet, using the Developer ribbon (Form controls), and assign it to a macro that changes the background color of selected cells to green.
 * Create an Inputbox that converts a measurement from inches to centimeters. 
 * Create an Inputbox within a Do Loop to access value additions, 
 * Make a Msgbox with vbYesNo argument.
