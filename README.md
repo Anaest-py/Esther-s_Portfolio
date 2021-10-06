@@ -3,7 +3,6 @@
 
 ![](https://github.com/Anaest-py/My-Portfolio/blob/main/images/IMG_20210728_161828_933.jpg)
 
-
 I am Esther Chinenye Anagu, an aspiring data analyst. Although I did not have a background in Data Science but of course, because of my determination and passion for it, through learning and studying, I have been able to improve in my data analysis skills. I have enrolled in courses on various platforms, such as Udereka, Udemy, IBM, Coursera, etc. I have also watched various YouTube videos that have helped in this journey. Moreso, I was given a scholarship on AWS Machine Learning by Udacity, thus increasing my knowledge base.
 
 I love continuous improvement, thus making it easy for me to learn new things and adapting to changes easily. As a result, an organization with a culture of continuous improvement and positive environment interests me the most. This would make them succeed amongst all odds. My main objective is to add value to your organization and ensure that I work towards making your visions and missions accomplished through the use of data. However, I am willing to learn and know more and have more expertise in this field.
@@ -16,16 +15,11 @@ I love continuous improvement, thus making it easy for me to learn new things an
 ## [Project 1: Data Visualization](https://public.tableau.com/app/profile/anagu.esther)
 As an organization, it will be difficult to make sense out of the data unless it is visualized. One of our duties, as data scientists, is to tell stories with data via data visualization. I can use the following tools: Power BI, Tableau, and Excel to visualize data.
 
-Also, I wrote an [article](https://anaguesther2.medium.com/in-todays-world-data-has-increased-in-volume-velocity-variety-veracity-and-value-and-these-736d0cc70808) on data visualization and in the article, I gave a report on three (3) important aspects of the Global Superstore datasets from the sample datasets provided by Tableau — Product analysis, Customer analysis, and the sales trends throughout 4years.
-The objectives of the Article were:
+Also, I wrote an [article](https://anaguesther2.medium.com/in-todays-world-data-has-increased-in-volume-velocity-variety-veracity-and-value-and-these-736d0cc70808) on data visualization and in the article, I gave a report on three (3) important aspects of the Global Superstore datasets from the sample datasets provided by Tableau — Product analysis, Customer analysis, and the sales trends throughout 4years. The objectives of the Article were:
 
-To ascertain and report on the rate of change in sales over four (4) years, 2014–2018.
-To analyze the products and identify the unprofitable products and give appropriate recommendations.
-To analyze the company’s customers, identify the loyal ones, and how we can provide continued satisfaction
-
-
-
-
+* To ascertain and report on the rate of change in sales over four (4) years, 2014–2018.
+* To analyze the products and identify the unprofitable products and give appropriate recommendations.
+* To analyze the company’s customers, identify the loyal ones, and how we can provide continued satisfaction
 
 ## [Project 2: Data Analysis using Pandas](https://github.com/Anaest-py/Week-5-Assessment/blob/master/Anagu%20Esther%20WT-21-074/Project2%20on%20Economic%20Indicators'%20Correlation%20(GDP%20and%20Unemployment%20Rate).ipynb)
 
